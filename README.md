@@ -4,13 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This ia the mobile version of Web E commerce this mobile has 2 users the buyer and the rider its connected on the web and use only one database and back end. I use restfulAPI to make them talk to each other and JSON back end python. I use framework flutter and programming language dart. I havent have an opportunity to use firebase mostly because Im broke but both of them communicate to each other although only localy with the help of IP and same network.
